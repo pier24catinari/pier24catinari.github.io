@@ -6,7 +6,7 @@ nav: About
 <!-- Your bio. Write normal text; one empty line starts a new paragraph.
      Links are written as [text](https://address). -->
 
-I am a postdoctoral researcher in theoretical physics at [Cornell University](https://www.cornell.edu/), where I work with [Csaba Csáki](https://inspirehep.net/authors/1012738) and [Yuval Grossman](https://inspirehep.net/authors/1007437), and at the [Weizmann Institute of Science](https://www.weizmann.ac.il/), in the [group](https://www.weizmann.ac.il/particle/perez/) of [Gilad Perez](https://inspirehep.net/authors/1008388).
+I am a postdoctoral researcher in theoretical physics at [Cornell University](https://www.cornell.edu/), where I work in the group of [Csaba Csáki](https://inspirehep.net/authors/1012738) and [Yuval Grossman](https://inspirehep.net/authors/1007437), and at the [Weizmann Institute of Science](https://www.weizmann.ac.il/), in the [group](https://www.weizmann.ac.il/particle/perez/) of [Gilad Perez](https://inspirehep.net/authors/1008388).
 
 I obtained my PhD in 2026 at [Sapienza University of Rome](https://www.uniroma1.it/en), where I was advised by [Angelo Esposito](https://inspirehep.net/authors/1233187) and [Alfredo Urbano](https://inspirehep.net/authors/1060008) and also worked with [Roberto Contino](https://inspirehep.net/authors/1019481).
 
