@@ -30,7 +30,7 @@ last_updated: "October 2026"
 # ---------------------------------------------------------------
 #  Technical settings: no need to change anything below
 # ---------------------------------------------------------------
-url: "https://pier24catinari.github.io"
+url: "https://piercatinari.github.io"
 plugins:
   - jekyll-sitemap
 markdown: kramdown
