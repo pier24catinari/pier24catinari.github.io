@@ -9,10 +9,12 @@ positions:
     what: "Postdoctoral researcher, Cornell University, Ithaca, USA"
   - when: "2026 – now"
     what: "Postdoctoral researcher, Weizmann Institute of Science, Rehovot, Israel"
-  - when: "Jan 2026 - Sept 2026"
-    what: "GGI boost fellow, Galileo Galilei Institute, Florence, Italy"
-  - when: "Jan 2026"
-    what: "Della Riccia Fellow: declined"
+  - when: "Jan – Sep 2026"
+    what: "GGI Boost Fellow, Galileo Galilei Institute for Theoretical Physics, Florence, Italy"
+
+awards:
+  - when: "2026"
+    what: "Della Riccia Fellowship, Fondazione Angelo Della Riccia (declined)"
 
 visits:
   - when: "Fall 2024"
